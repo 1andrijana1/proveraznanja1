@@ -1,0 +1,16 @@
+form{
+    display: flex;
+    flex-direction: row;
+}
+#drugi{
+    padding-left: 200px;
+}
+button{
+    width: 100%;
+    background-color: blue;
+    color: white;
+}
+#rbr{
+    width: 30px;
+}
+b
